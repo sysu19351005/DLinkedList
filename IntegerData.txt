@@ -1,0 +1,11 @@
+#data represents IntegerData, format: number
+data1:5
+data2:3
+data3:11
+data4:23
+data5:8
+data6:35
+data7:24
+data8:30
+data9:19
+data10:32
